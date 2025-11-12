@@ -1,6 +1,6 @@
-# Pig Game
+# Dice Game
 
-[Go To Website](https://zelykiro.github.io/pig-game/)
+[Go To Website](https://zelykiro.github.io/dice-game/)
 
 ## How To Play
 
